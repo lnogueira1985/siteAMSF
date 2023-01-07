@@ -123,6 +123,10 @@ section{
     section{
         padding: 20px 0;
     }
+
+    .top{
+        background-size: cover;
+    }
 }
 
 /* gradiente escurece da direita pra esquerda */
